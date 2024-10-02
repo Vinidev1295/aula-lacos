@@ -8,3 +8,4 @@ while(quantidadeAtual < quantidadeTotal){
   console.log(linha)
   quantidadeAtual++
 }
+//Vai imprimir a quantidade de linhas e incrementar um asterico a cada linha ate atingir o número escrito, que no caso seria 4 linhas.
