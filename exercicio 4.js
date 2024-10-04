@@ -7,5 +7,7 @@ if(pet===0){
  pet2 = prompt("Qual o nome dos seus pets? ")
       array.push(pet2)
 }
-  console.log(array)
-}
+  }
+  for(let i=0; i<array.length; i++){
+      console.log("O nome do pet é:" ,array[i])
+  }
